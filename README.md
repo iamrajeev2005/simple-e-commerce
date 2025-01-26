@@ -31,3 +31,5 @@ Helendo is a modern, responsive e-commerce web application built with React and 
 
 1. Clone the repository:
 
+```bash
+git clone https://github.com/iamrajeev2005/simple-e-commerce.git
